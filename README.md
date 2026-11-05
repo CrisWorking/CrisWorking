@@ -7,7 +7,7 @@
 + If it exists, it can be better.
 ```
 
-[![Portfolio](https://img.shields.io/badge/portfolio-cristianopereira.dev-5eead4?style=for-the-badge&labelColor=06070a)](https://cristianopereira.dev) [![LinkedIn](https://img.shields.io/badge/linkedin-cristiano--pereira--devsecops-5eead4?style=for-the-badge&labelColor=06070a)](https://www.linkedin.com/in/cristiano-pereira-devsecops/) [![CV](https://img.shields.io/badge/cv-download%20pdf-5eead4?style=for-the-badge&labelColor=06070a)](https://cristianopereira.dev/cristiano-pereira-cv.pdf)
+[![Portfolio](https://img.shields.io/badge/portfolio-cristianopereira.dev-1f6f66?style=for-the-badge&labelColor=161b22)](https://cristianopereira.dev) [![LinkedIn](https://img.shields.io/badge/linkedin-cristiano--pereira--devsecops-1f6f66?style=for-the-badge&labelColor=161b22)](https://www.linkedin.com/in/cristiano-pereira-devsecops/) [![CV](https://img.shields.io/badge/cv-download%20pdf-1f6f66?style=for-the-badge&labelColor=161b22)](https://cristianopereira.dev/cristiano-pereira-cv.pdf)
 
 ### Now
 
