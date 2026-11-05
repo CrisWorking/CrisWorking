@@ -43,10 +43,4 @@ A full security audit of a simulated healthcare network: 9 findings, a risk matr
 - Launched the platform and grew it to **400 users**
 - Built v1 in TypeScript and led QA, turning user feedback into fixes
 
-**IT Trainee · Alidata Software** · 2024
-- Designed network infrastructure for a business client and built a diagnostic USB toolkit for technicians
-
-**IT Trainee · Filstone** · 2021 – 2022
-- Network mapping, Wi-Fi rollout and IT support; built internal desktop and mobile apps
-
 <sub>Mostly working with GitHub Actions · Semgrep · Docker · TypeScript · Linux &nbsp;|&nbsp; Portuguese (native) · English (C2)</sub>
