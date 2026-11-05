@@ -1,5 +1,5 @@
 # Cristiano Pereira
 
-DevSecOps engineer. Every step checked, every deploy trusted.
+DevSecOps engineer. If it exists, it can be better.
 
-**Portfolio:** coming soon. The link will be here once the site is live.
+**Portfolio:** [cristianopereira.dev](https://cristianopereira.dev)
